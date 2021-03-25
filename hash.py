@@ -32,8 +32,6 @@ while True:
         with open ('confession_fake.txt','a') as f:
             f.write(' ')
             continue
-    else:
-        print('Done!')               
 
 
 
